@@ -2,7 +2,7 @@
   "name": "scroll-spy",
   "version": "1.0.3",
   "description": "A light weight scroll spy library in vanilla js",
-  "main": "dist/scroll-spy.js",
+  "main": "dist/scroll-spy.min.js",
   "scripts": {
     "test": "jest"
   },
